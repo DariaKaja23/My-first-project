@@ -1,0 +1,20 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "repository": "git@github.com:DariaKaja23/My-first-project.git",
+  "author": "DariaKaja23 <dariakaja23@gmail.com>",
+  "private": false,
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^25.5.4"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js"
+    ]
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
